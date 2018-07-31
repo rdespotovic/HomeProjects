@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class Cloudera {
+public class Practice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
